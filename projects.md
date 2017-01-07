@@ -1,3 +1,9 @@
+---
+layout: page
+title: Projects
+subtitle: Fun projects I do in my spare time
+---
+
 # Projects
 Fun projects I do in my spare time
 
