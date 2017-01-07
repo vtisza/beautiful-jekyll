@@ -4,9 +4,6 @@ title: Projects
 subtitle: Fun projects I do in my spare time
 ---
 
-# Projects
-Fun projects I do in my spare time
-
 | Project       | Description          |
 | ------------- |:-------------:|
 | <a href=https://github.com/vtisza/Elektor>ElektoR</a>| * [Hungarian] * Neat ** Shiny/R ** webapp to simulate how the modification of certain election rules would have influenced tbe result of the Hungarian parliamentary elections in 2014. (Antecedent: Hungarian election law was severly modified in 2013) As a spin-off of the project I am working on an R package implementing different vote-to-mandate allocation algorithms. <br><br>For the deployed version of the app <a hred=https://elektor.shinyapps.io/Valasztas/>click here</a>.  |
