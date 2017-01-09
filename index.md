@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: My Projects
 subtitle: Fun projects I do in my spare time
 ---
 
