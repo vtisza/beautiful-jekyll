@@ -1,8 +1,4 @@
----
-layout: page
-title: Projects
-subtitle: Fun projects I do in my spare time
----
+
 
 | Project       | Description          |
 | -------- |:-------:|
